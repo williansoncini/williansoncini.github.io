@@ -1,14 +1,12 @@
-## Notas abaixo 📄
+<!-- ## Notas abaixo 📄 -->
+Notas abaixo, clique em alguma para ser redirecionado :3
 
+![](https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy-tumblr.gif)
 
 ### 🐳 - [Docker](http://notas.williansoncini.com/Docker-Notas/)
 ### 🚀 - [JavaScript](http://notas.williansoncini.com/JavaScript-Notas/)
-### ✅ - [Node](http://notas.williansoncini.com/Node-Notas/)
-
-![](https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif)
-![](https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy-tumblr.gif)
-
 ### 🅰:🅰 - [Typescript](http://notas.williansoncini.com/notas-typescript/)
+### ✅ - [Node](http://notas.williansoncini.com/Node-Notas/)
 ### 🤡 - [Jest](http://notas.williansoncini.com/notas-jest/)
 ### 🧊 - [S.O.L.I.D-ts](http://notas.williansoncini.com/S.O.L.I.D-ts/)
 ### 📃 - [Design Patterns](http://notas.williansoncini.com/notas-design-patterns/)
