@@ -14,3 +14,11 @@ Notas abaixo, clique em alguma para ser redirecionado :3
 ### 🎲 - [Knex](http://notas.williansoncini.com/knex-js/)
 ### 🤯 - [Expressoes regulares](http://notas.williansoncini.com/notas-expressoes-regulares/)
 ### 🐧 - [Wsl](http://notas.williansoncini.com/Wsl-Notes/)
+### 🐍 - [FastApi](http://notas.williansoncini.com/Wsl-Notes/)
+
+## 🏗 - Em contrução - 🏗
+
+![](https://media.giphy.com/media/3ov9jRPMChw9ZzVlUk/giphy-downsized.gif)
+
+### 🤺 - [UX - User experience](http://notas.williansoncini.com/Wsl-Notes/)
+### ✨ - [Devops](http://notas.williansoncini.com/Wsl-Notes/)
