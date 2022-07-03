@@ -18,7 +18,20 @@ Notas abaixo, clique em alguma para ser redirecionado :3
 
 🚧 - Em contrução - 🚧
 
-<img src="https://media.giphy.com/media/xZsLh7B3KMMyUptD9D/giphy.gif" alt="drawing" width="250"/>
-
 ### 🤺 - [UX - User experience](http://notas.williansoncini.com/ux-notas/)
 ### ✨ - [Devops](http://notas.williansoncini.com/devops-notas/#rancher-single-node)
+
+❌ - Notas pendentes - ❌
+
+### 🎲 - SQL
+### 🐍 - Python
+### 🐱‍👤 - Git
+### 🐧 - Linux
+### 📊 - Grafana
+### 🐙 - Kubernets
+### 🌳 - AWS
+
+Sempre tem algo a ser aprendido ou melhorado, então conforme faço isso, vou anotando aqui :)
+
+
+
