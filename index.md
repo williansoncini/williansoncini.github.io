@@ -14,11 +14,11 @@ Notas abaixo, clique em alguma para ser redirecionado :3
 ### 🎲 - [Knex](http://notas.williansoncini.com/knex-js/)
 ### 🤯 - [Expressoes regulares](http://notas.williansoncini.com/notas-expressoes-regulares/)
 ### 🐧 - [Wsl](http://notas.williansoncini.com/Wsl-Notes/)
-### 🐍 - [FastApi](http://notas.williansoncini.com/Wsl-Notes/)
+### 🐍 - [FastApi](http://notas.williansoncini.com/fastapi-notas/)
 
-## 🏗 - Em contrução - 🏗
+🚧 - Em contrução - 🚧
 
-![](https://media.giphy.com/media/3ov9jRPMChw9ZzVlUk/giphy-downsized.gif)
+<img src="https://media.giphy.com/media/xZsLh7B3KMMyUptD9D/giphy.gif" alt="drawing" width="250"/>
 
-### 🤺 - [UX - User experience](http://notas.williansoncini.com/Wsl-Notes/)
-### ✨ - [Devops](http://notas.williansoncini.com/Wsl-Notes/)
+### 🤺 - [UX - User experience](http://notas.williansoncini.com/ux-notas/)
+### ✨ - [Devops](http://notas.williansoncini.com/devops-notas/#rancher-single-node)
