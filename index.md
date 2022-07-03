@@ -8,8 +8,8 @@ Notas abaixo, clique em alguma para ser redirecionado(a) :3
 ### 🅰:🅰 - [Typescript](http://notas.williansoncini.com/notas-typescript/)
 ### ✅ - [Node](http://notas.williansoncini.com/Node-Notas/)
 ### 🤡 - [Jest](http://notas.williansoncini.com/notas-jest/)
-### 🧊 - [S.O.L.I.D-ts](http://notas.williansoncini.com/S.O.L.I.D-ts/)
-### 📃 - [Design Patterns](http://notas.williansoncini.com/notas-design-patterns/)
+### 🧊 - [S.O.L.I.D utilizando Typescript](http://notas.williansoncini.com/S.O.L.I.D-ts/)
+### 📃 - [Design Patterns utilizando Typescrpit](http://notas.williansoncini.com/notas-design-patterns/)
 ### 🌐 - [React JS](http://notas.williansoncini.com/react-notes/)
 ### 🎲 - [Knex JS](http://notas.williansoncini.com/knex-js/)
 ### 🤯 - [Expressoes regulares](http://notas.williansoncini.com/notas-expressoes-regulares/)
@@ -18,8 +18,8 @@ Notas abaixo, clique em alguma para ser redirecionado(a) :3
 
 🚧 - Em contrução - 🚧
 
-### 🤺 - [UX - User experience](http://notas.williansoncini.com/ux-notas/)
-### ✨ - [Devops](http://notas.williansoncini.com/devops-notas/#rancher-single-node)
+### 🤺 - [UX & Design Thinking: Experiência do Usuário nos negócios](http://notas.williansoncini.com/ux-notas/)
+### ✨ - [DevOps Ninja: Docker, Kubernetes e Rancher](http://notas.williansoncini.com/devops-notas/#rancher-single-node)
 
 
 *Sempre tem algo a ser aprendido ou melhorado, então conforme faço isso, vou anotando aqui :)*
