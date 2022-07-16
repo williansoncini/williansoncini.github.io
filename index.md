@@ -15,12 +15,10 @@ Notas abaixo, clique em alguma para ser redirecionado(a) :3
 ### [Expressoes regulares](https://notas.williansoncini.com/notas-expressoes-regulares/)
 ### [Wsl](https://notas.williansoncini.com/Wsl-Notes/)
 ### [FastApi](https://notas.williansoncini.com/fastapi-notas/)
-
+### [UX & Design Thinking: Experiência do Usuário nos negócios](https://notas.williansoncini.com/ux-notas/)
 
 *Em contrução*
 
-### [UX & Design Thinking: Experiência do Usuário nos negócios](https://notas.williansoncini.com/ux-notas/)
 ### [DevOps Ninja: Docker, Kubernetes e Rancher](https://notas.williansoncini.com/devops-notas/#rancher-single-node)
-
 
 *Sempre tem algo a ser aprendido ou melhorado, então conforme faço isso, vou anotando aqui :)*
